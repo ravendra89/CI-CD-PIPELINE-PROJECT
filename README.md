@@ -1,1 +1,1 @@
-# javahometech-my-app
+# Jenkins ci/cd pepeline project
